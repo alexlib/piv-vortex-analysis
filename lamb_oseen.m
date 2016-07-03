@@ -1,3 +1,5 @@
+% Generate Lamb Oseen vortex to test scripts with
+
 function F = lamb_oseen(coeffs,r)
 
 twopi = 2*pi;
